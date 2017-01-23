@@ -1,6 +1,0 @@
-D:\Учёба\Семестр 5\СПП\Lab5\SimpleWcfService\SimpleWcfService\bin\Debug\SimpleWcfService.dll.config
-D:\Учёба\Семестр 5\СПП\Lab5\SimpleWcfService\SimpleWcfService\bin\Debug\SimpleWcfService.dll
-D:\Учёба\Семестр 5\СПП\Lab5\SimpleWcfService\SimpleWcfService\bin\Debug\SimpleWcfService.pdb
-D:\Учёба\Семестр 5\СПП\Lab5\SimpleWcfService\SimpleWcfService\obj\Debug\SimpleWcfService.dll
-D:\Учёба\Семестр 5\СПП\Lab5\SimpleWcfService\SimpleWcfService\obj\Debug\SimpleWcfService.pdb
-D:\Учёба\Семестр 5\СПП\Lab5\SimpleWcfService\SimpleWcfService\obj\Debug\SimpleWcfService.csprojResolveAssemblyReference.cache
