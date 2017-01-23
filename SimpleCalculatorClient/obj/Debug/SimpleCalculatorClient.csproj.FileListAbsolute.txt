@@ -1,6 +1,0 @@
-D:\Учёба\Семестр 5\СПП\Lab5\SimpleWcfService\SimpleCalculatorClient\bin\Debug\SimpleCalculatorClient.exe.config
-D:\Учёба\Семестр 5\СПП\Lab5\SimpleWcfService\SimpleCalculatorClient\bin\Debug\SimpleCalculatorClient.exe
-D:\Учёба\Семестр 5\СПП\Lab5\SimpleWcfService\SimpleCalculatorClient\bin\Debug\SimpleCalculatorClient.pdb
-D:\Учёба\Семестр 5\СПП\Lab5\SimpleWcfService\SimpleCalculatorClient\obj\Debug\SimpleCalculatorClient.csprojResolveAssemblyReference.cache
-D:\Учёба\Семестр 5\СПП\Lab5\SimpleWcfService\SimpleCalculatorClient\obj\Debug\SimpleCalculatorClient.exe
-D:\Учёба\Семестр 5\СПП\Lab5\SimpleWcfService\SimpleCalculatorClient\obj\Debug\SimpleCalculatorClient.pdb
